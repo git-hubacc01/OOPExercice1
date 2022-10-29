@@ -1,3 +1,0 @@
-# OOPExercice
-For Educational Purposes
-
